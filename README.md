@@ -61,6 +61,8 @@ This list is divided into two main sections, viz. Geometry-based Methods in Visi
 
 11. [Mixture Models] (http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch20.pdf)
 
+12. [A Unifying Review of Linear Gaussian Models] (http://mlg.eng.cam.ac.uk/zoubin/papers/lds.pdf)
+
 
 
 ### Introduction to Graphical Models
