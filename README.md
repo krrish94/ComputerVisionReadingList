@@ -53,7 +53,7 @@ This list is divided into two main sections, viz. Geometry-based Methods in Visi
 
 7. [Tutorial on Mixture Models] (http://www.homepages.ucl.ac.uk/~ucakche/presentations/cladagtutorial.pdf)
 
-8. [Mixture Models and EM] (http://www.cs.toronto.edu/~kyros/courses/2503/Handouts/mixtureModel.pdf0
+8. [Mixture Models and EM] (http://www.cs.toronto.edu/~kyros/courses/2503/Handouts/mixtureModel.pdf)
 
 9. [Mixture of Gaussians Tutorial] (https://www.spsc.tugraz.at/system/files/mixtgaussian.pdf)
 
