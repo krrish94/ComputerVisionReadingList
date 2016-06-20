@@ -8,6 +8,10 @@ This list is divided into two main sections, viz. Geometry-based Methods in Visi
 
 # Geometry-based Methods in Vision
 
+## Research Papers
+
+1. [Multi-stage SfM: A Coarse-to-Fine Approach for 3D Reconstruction](http://arxiv.org/pdf/1512.06235.pdf)
+
 
 
 
