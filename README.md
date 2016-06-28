@@ -5,13 +5,20 @@ My reading list for topics in Computer Vision
 This list is divided into two main sections, viz. Geometry-based Methods in Vision and Learning-based Methods in Vision.
 
 
+# Research Papers
 
-# Geometry-based Methods in Vision
-
-## Research Papers
+## SfM
 
 1. [Multi-stage SfM: A Coarse-to-Fine Approach for 3D Reconstruction](http://arxiv.org/pdf/1512.06235.pdf)
 
+
+
+# Geometry-based Methods in Vision
+
+
+## Course Materials
+
+1. [Mathematical Foundations of Graphics and Vision - Good resources on the geometry of SO(3)](http://lucaballan.altervista.org/teaching.html)
 
 
 
