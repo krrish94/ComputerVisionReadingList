@@ -20,7 +20,7 @@ This list is divided into two main sections, viz. Geometry-based Methods in Visi
 
 ## Course Materials
 
-1. [Mathematical Foundations of Graphics and Vision - Good resources on the geometry of SO(3)](http://lucaballan.altervista.org/teaching.html)
+1. [Mathematical Foundations of Graphics and Vision - Good resources on the geometry of SO(3) and on Variational Methods](http://lucaballan.altervista.org/teaching.html)
 
 
 
