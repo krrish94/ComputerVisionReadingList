@@ -12,6 +12,7 @@ This list is divided into two main sections, viz. Geometry-based Methods in Visi
 1. [Multi-stage SfM: A Coarse-to-Fine Approach for 3D Reconstruction](http://arxiv.org/pdf/1512.06235.pdf)
 2. [Metrics for 3D Rotation: Comparison and Analysis](http://www.cs.cmu.edu/~cga/dynopt/readings/Rmetric.pdf)
 3. [Analyzing 3D Objects in Cluttered Images - NRSfM applied on Cars](https://papers.nips.cc/paper/4680-analyzing-3d-objects-in-cluttered-images.pdf)
+4. [NRSfM Tutorial](http://users.isr.ist.utl.pt/~adb/tutorial_2009/2011_ICCV_Non-rigid_Structure_From_Motion_lourdes.pdf)
 
 
 
