@@ -13,6 +13,8 @@ This list is divided into two main sections, viz. Geometry-based Methods in Visi
 2. [Metrics for 3D Rotation: Comparison and Analysis](http://www.cs.cmu.edu/~cga/dynopt/readings/Rmetric.pdf)
 3. [Analyzing 3D Objects in Cluttered Images - NRSfM applied on Cars](https://papers.nips.cc/paper/4680-analyzing-3d-objects-in-cluttered-images.pdf)
 4. [NRSfM Tutorial](http://users.isr.ist.utl.pt/~adb/tutorial_2009/2011_ICCV_Non-rigid_Structure_From_Motion_lourdes.pdf)
+5. [Shape and motion from image streams under orthography: A factorization method - Seminal Work on Factorization based Approaches for Structure Recovery](https://people.eecs.berkeley.edu/~yang/courses/cs294-6/papers/TomasiC_Shape%20and%20motion%20from%20image%20streams%20under%20orthography.pdf)
+6. [Recovering non-rigid 3D shape from image streams - Seminal work on representing non-rigid structure as a combination of basis](http://cims.nyu.edu/~bregler/bhb-cvpr00.pdf)
 
 
 
