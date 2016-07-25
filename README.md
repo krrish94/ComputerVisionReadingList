@@ -29,6 +29,10 @@ This list is divided into two main sections, viz. Geometry-based Methods in Visi
 
 # Learning-based Methods in Vision
 
+## Review Notes
+
+1. [Review lectures - before you take a grad course in ML](https://www.youtube.com/channel/UC7gOYDYEgXG1yIH_rc2LgOw/playlists)
+
 ## Books
 
 1. [Computer Vision: Models, Learning, and Inference] (http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf)
